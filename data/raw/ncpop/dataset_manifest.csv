@@ -1,0 +1,16 @@
+file,rows,columns,size_kb
+asset_telemetry.csv,34560,13,2713.4
+assets.csv,62,10,5.4
+cargo_tracking.csv,1200,13,119.6
+emergency_incidents.csv,180,12,13.9
+inventory_consumption.csv,3624,8,159.9
+inventory_master.csv,24,9,1.6
+missions.csv,900,14,89.0
+operational_risk_labels.csv,302,8,11.6
+personnel.csv,118,9,9.2
+personnel_movement.csv,16200,11,1404.9
+route_segments.csv,60,10,4.1
+scientific_instruments.csv,36,8,2.4
+scientific_telemetry.csv,31152,8,1834.9
+stations.csv,2,10,0.4
+weather_observations.csv,14496,11,955.7

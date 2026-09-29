@@ -1,0 +1,25 @@
+station_id,item_id,item_name,category,unit,capacity,current_stock,reorder_point,shelf_life_days
+MAI,FUEL-DIESEL,Diesel Fuel,fuel,L,250000,119069.1,62500.0,365
+MAI,FUEL-AVIATION,Aviation Fuel,fuel,L,60000,27997.6,18000.0,365
+MAI,FOOD-DRY,Dry Rations,food,kg,12000,9961.9,2400.0,730
+MAI,FOOD-FRESH,Fresh Food,food,kg,4500,3532.5,1125.0,30
+MAI,MED-ESS,Medical Consumables,medical,unit,2500,1209.3,625.0,730
+MAI,O2-MED,Medical Oxygen,medical,cylinder,180,83.5,54.0,730
+MAI,BAT-LI,Lithium Battery Packs,power,unit,600,300.0,150.0,730
+MAI,SPARE-FLT,Fleet Spare Parts,spares,unit,1800,1298.8,360.0,3650
+MAI,SPARE-GEN,Generator Spare Parts,spares,unit,700,410.3,140.0,3650
+MAI,LAB-CONS,Laboratory Consumables,science,unit,3200,2117.8,800.0,730
+MAI,PPE,Cold Weather PPE,safety,unit,900,334.3,180.0,3650
+MAI,WATER-TREAT,Water Treatment Consumables,utility,unit,600,411.2,150.0,730
+BHA,FUEL-DIESEL,Diesel Fuel,fuel,L,250000,123326.5,62500.0,365
+BHA,FUEL-AVIATION,Aviation Fuel,fuel,L,60000,37077.7,18000.0,365
+BHA,FOOD-DRY,Dry Rations,food,kg,12000,6825.2,2400.0,730
+BHA,FOOD-FRESH,Fresh Food,food,kg,4500,1984.3,1125.0,30
+BHA,MED-ESS,Medical Consumables,medical,unit,2500,1041.7,625.0,730
+BHA,O2-MED,Medical Oxygen,medical,cylinder,180,99.1,54.0,730
+BHA,BAT-LI,Lithium Battery Packs,power,unit,600,438.0,150.0,730
+BHA,SPARE-FLT,Fleet Spare Parts,spares,unit,1800,1120.7,360.0,3650
+BHA,SPARE-GEN,Generator Spare Parts,spares,unit,700,544.9,140.0,3650
+BHA,LAB-CONS,Laboratory Consumables,science,unit,3200,1871.0,800.0,730
+BHA,PPE,Cold Weather PPE,safety,unit,900,725.1,180.0,3650
+BHA,WATER-TREAT,Water Treatment Consumables,utility,unit,600,224.5,150.0,730

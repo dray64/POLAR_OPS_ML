@@ -1,0 +1,3 @@
+station_id,station_name,region,latitude,longitude,elevation_m,main_building_capacity,summer_total_capacity,environment_profile,water_system
+MAI,Maitri,"Schirmacher Oasis, Central Dronning Maud Land",-70.7644,11.7342,50,25,40,inland_rocky_oasis,lake_water
+BHA,Bharati,"Larsemann Hills, Prydz Bay / Ingrid Christensen Coast",-69.4068,76.1953,35,47,72,coastal_rocky_fjord,sea_water

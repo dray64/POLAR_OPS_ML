@@ -1,0 +1,7 @@
+{
+  "status": "NOT_READY",
+  "rows": 302,
+  "positive_rows": 2,
+  "negative_rows": 300,
+  "reason": "Too few positive examples for reliable binary classification."
+}

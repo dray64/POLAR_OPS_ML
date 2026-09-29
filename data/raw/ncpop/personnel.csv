@@ -1,0 +1,119 @@
+person_id,name,role_code,role_name,department,station_id,deployment_type,fitness_clearance,current_status
+P0001,Aarav Mehta,STA-CMD,Station Commander,Station,MAI,wintering,valid,station
+P0002,Ishita Iyer,SAF-OFF,Safety Officer,Safety,MAI,wintering,valid,maintenance
+P0003,Kabir Patel,MED-OFF,Medical Officer,Medical,MAI,wintering,valid,station
+P0004,Meera Gupta,MET-OFF,Meteorological Officer,Weather,MAI,wintering,valid,maintenance
+P0005,Rohan Nair,FLT-MGR,Fleet Manager,Fleet,MAI,wintering,valid,station
+P0006,Ananya Rao,MECH,Maintenance Technician,Maintenance,MAI,wintering,valid,field_mission
+P0007,Vikram Kapoor,SCI-PI,Principal Investigator,Science,MAI,wintering,valid,station
+P0008,Nandini Joshi,SCI-RS,Research Scientist,Science,MAI,wintering,valid,station
+P0009,Arjun Bose,SCI-TECH,Scientific Instrument Technician,Science,MAI,wintering,valid,lab
+P0010,Diya Das,FIELD-L,Field Team Leader,Field,MAI,wintering,valid,maintenance
+P0011,Aditya Sen,FIELD-M,Field Team Member,Field,MAI,wintering,valid,station
+P0012,Tara Banerjee,WARE,Warehouse Officer,Logistics,MAI,wintering,valid,station
+P0013,Kunal Menon,COM-OFF,Communications Officer,Communications,MAI,wintering,valid,lab
+P0014,Mira Sharma,STA-CMD,Station Commander,Station,MAI,wintering,valid,station
+P0015,Dev Mehta,SAF-OFF,Safety Officer,Safety,MAI,wintering,valid,field_mission
+P0016,Sana Iyer,MED-OFF,Medical Officer,Medical,MAI,wintering,valid,lab
+P0017,Neel Patel,MET-OFF,Meteorological Officer,Weather,MAI,wintering,valid,lab
+P0018,Riya Gupta,FLT-MGR,Fleet Manager,Fleet,MAI,wintering,valid,maintenance
+P0019,Aman Nair,MECH,Maintenance Technician,Maintenance,MAI,wintering,valid,station
+P0020,Kavya Rao,SCI-PI,Principal Investigator,Science,MAI,wintering,valid,station
+P0021,Aarav Kapoor,SCI-RS,Research Scientist,Science,MAI,wintering,valid,station
+P0022,Ishita Joshi,SCI-TECH,Scientific Instrument Technician,Science,MAI,wintering,valid,station
+P0023,Kabir Bose,FIELD-L,Field Team Leader,Field,MAI,wintering,valid,station
+P0024,Meera Das,FIELD-M,Field Team Member,Field,MAI,wintering,valid,station
+P0025,Rohan Sen,WARE,Warehouse Officer,Logistics,MAI,wintering,valid,station
+P0026,Ananya Banerjee,COM-OFF,Communications Officer,Communications,MAI,wintering,valid,station
+P0027,Vikram Menon,STA-CMD,Station Commander,Station,MAI,wintering,valid,station
+P0028,Nandini Sharma,SAF-OFF,Safety Officer,Safety,MAI,wintering,valid,station
+P0029,Arjun Mehta,MED-OFF,Medical Officer,Medical,MAI,wintering,valid,station
+P0030,Diya Iyer,MET-OFF,Meteorological Officer,Weather,MAI,wintering,valid,station
+P0031,Aditya Patel,FLT-MGR,Fleet Manager,Fleet,MAI,summer,valid,field_mission
+P0032,Tara Gupta,MECH,Maintenance Technician,Maintenance,MAI,summer,valid,station
+P0033,Kunal Nair,SCI-PI,Principal Investigator,Science,MAI,summer,valid,station
+P0034,Mira Rao,SCI-RS,Research Scientist,Science,MAI,summer,valid,station
+P0035,Dev Kapoor,SCI-TECH,Scientific Instrument Technician,Science,MAI,summer,valid,field_mission
+P0036,Sana Joshi,FIELD-L,Field Team Leader,Field,MAI,summer,valid,station
+P0037,Neel Bose,FIELD-M,Field Team Member,Field,MAI,summer,valid,lab
+P0038,Riya Das,WARE,Warehouse Officer,Logistics,MAI,summer,valid,field_mission
+P0039,Aman Sen,COM-OFF,Communications Officer,Communications,MAI,summer,valid,field_mission
+P0040,Kavya Banerjee,STA-CMD,Station Commander,Station,MAI,summer,valid,lab
+P0041,Aarav Menon,SAF-OFF,Safety Officer,Safety,MAI,summer,valid,lab
+P0042,Ishita Sharma,MED-OFF,Medical Officer,Medical,MAI,summer,valid,station
+P0043,Kabir Mehta,MET-OFF,Meteorological Officer,Weather,MAI,summer,valid,lab
+P0044,Meera Iyer,FLT-MGR,Fleet Manager,Fleet,MAI,summer,valid,station
+P0045,Rohan Patel,MECH,Maintenance Technician,Maintenance,MAI,summer,valid,station
+P0046,Ananya Gupta,SCI-PI,Principal Investigator,Science,MAI,summer,valid,station
+P0047,Vikram Nair,SCI-RS,Research Scientist,Science,MAI,summer,valid,station
+P0048,Nandini Rao,SCI-TECH,Scientific Instrument Technician,Science,MAI,summer,valid,field_mission
+P0049,Arjun Kapoor,STA-CMD,Station Commander,Station,BHA,wintering,valid,station
+P0050,Diya Joshi,SAF-OFF,Safety Officer,Safety,BHA,wintering,valid,station
+P0051,Aditya Bose,MED-OFF,Medical Officer,Medical,BHA,wintering,valid,station
+P0052,Tara Das,MET-OFF,Meteorological Officer,Weather,BHA,wintering,valid,maintenance
+P0053,Kunal Sen,FLT-MGR,Fleet Manager,Fleet,BHA,wintering,valid,station
+P0054,Mira Banerjee,MECH,Maintenance Technician,Maintenance,BHA,wintering,valid,field_mission
+P0055,Dev Menon,SCI-PI,Principal Investigator,Science,BHA,wintering,valid,field_mission
+P0056,Sana Sharma,SCI-RS,Research Scientist,Science,BHA,wintering,valid,field_mission
+P0057,Neel Mehta,SCI-TECH,Scientific Instrument Technician,Science,BHA,wintering,valid,station
+P0058,Riya Iyer,FIELD-L,Field Team Leader,Field,BHA,wintering,valid,lab
+P0059,Aman Patel,FIELD-M,Field Team Member,Field,BHA,wintering,valid,field_mission
+P0060,Kavya Gupta,WARE,Warehouse Officer,Logistics,BHA,wintering,valid,station
+P0061,Aarav Nair,COM-OFF,Communications Officer,Communications,BHA,wintering,valid,field_mission
+P0062,Ishita Rao,STA-CMD,Station Commander,Station,BHA,wintering,valid,station
+P0063,Kabir Kapoor,SAF-OFF,Safety Officer,Safety,BHA,wintering,valid,station
+P0064,Meera Joshi,MED-OFF,Medical Officer,Medical,BHA,wintering,valid,field_mission
+P0065,Rohan Bose,MET-OFF,Meteorological Officer,Weather,BHA,wintering,valid,station
+P0066,Ananya Das,FLT-MGR,Fleet Manager,Fleet,BHA,wintering,valid,station
+P0067,Vikram Sen,MECH,Maintenance Technician,Maintenance,BHA,wintering,valid,lab
+P0068,Nandini Banerjee,SCI-PI,Principal Investigator,Science,BHA,wintering,valid,station
+P0069,Arjun Menon,SCI-RS,Research Scientist,Science,BHA,wintering,valid,station
+P0070,Diya Sharma,SCI-TECH,Scientific Instrument Technician,Science,BHA,wintering,valid,maintenance
+P0071,Aditya Mehta,FIELD-L,Field Team Leader,Field,BHA,wintering,valid,maintenance
+P0072,Tara Iyer,FIELD-M,Field Team Member,Field,BHA,wintering,valid,station
+P0073,Kunal Patel,WARE,Warehouse Officer,Logistics,BHA,wintering,valid,station
+P0074,Mira Gupta,COM-OFF,Communications Officer,Communications,BHA,wintering,valid,station
+P0075,Dev Nair,STA-CMD,Station Commander,Station,BHA,wintering,valid,station
+P0076,Sana Rao,SAF-OFF,Safety Officer,Safety,BHA,wintering,valid,maintenance
+P0077,Neel Kapoor,MED-OFF,Medical Officer,Medical,BHA,wintering,valid,station
+P0078,Riya Joshi,MET-OFF,Meteorological Officer,Weather,BHA,wintering,valid,station
+P0079,Aman Bose,FLT-MGR,Fleet Manager,Fleet,BHA,summer,valid,station
+P0080,Kavya Das,MECH,Maintenance Technician,Maintenance,BHA,summer,valid,maintenance
+P0081,Aarav Sen,SCI-PI,Principal Investigator,Science,BHA,summer,valid,station
+P0082,Ishita Banerjee,SCI-RS,Research Scientist,Science,BHA,summer,valid,station
+P0083,Kabir Menon,SCI-TECH,Scientific Instrument Technician,Science,BHA,summer,valid,station
+P0084,Meera Sharma,FIELD-L,Field Team Leader,Field,BHA,summer,valid,station
+P0085,Rohan Mehta,FIELD-M,Field Team Member,Field,BHA,summer,valid,station
+P0086,Ananya Iyer,WARE,Warehouse Officer,Logistics,BHA,summer,valid,field_mission
+P0087,Vikram Patel,COM-OFF,Communications Officer,Communications,BHA,summer,valid,station
+P0088,Nandini Gupta,STA-CMD,Station Commander,Station,BHA,summer,valid,field_mission
+P0089,Arjun Nair,SAF-OFF,Safety Officer,Safety,BHA,summer,valid,maintenance
+P0090,Diya Rao,MED-OFF,Medical Officer,Medical,BHA,summer,valid,field_mission
+P0091,Aditya Kapoor,MET-OFF,Meteorological Officer,Weather,BHA,summer,valid,station
+P0092,Tara Joshi,FLT-MGR,Fleet Manager,Fleet,BHA,summer,valid,station
+P0093,Kunal Bose,MECH,Maintenance Technician,Maintenance,BHA,summer,valid,station
+P0094,Mira Das,SCI-PI,Principal Investigator,Science,BHA,summer,valid,field_mission
+P0095,Dev Sen,SCI-RS,Research Scientist,Science,BHA,summer,valid,station
+P0096,Sana Banerjee,SCI-TECH,Scientific Instrument Technician,Science,BHA,summer,valid,station
+P0097,Neel Menon,FIELD-L,Field Team Leader,Field,BHA,summer,valid,lab
+P0098,Riya Sharma,FIELD-M,Field Team Member,Field,BHA,summer,valid,lab
+P0099,Aman Mehta,WARE,Warehouse Officer,Logistics,BHA,summer,valid,station
+P0100,Kavya Iyer,COM-OFF,Communications Officer,Communications,BHA,summer,valid,station
+P0101,Aarav Patel,STA-CMD,Station Commander,Station,BHA,summer,valid,station
+P0102,Ishita Gupta,SAF-OFF,Safety Officer,Safety,BHA,summer,valid,maintenance
+P0103,Kabir Nair,MED-OFF,Medical Officer,Medical,BHA,summer,valid,station
+P0104,Meera Rao,MET-OFF,Meteorological Officer,Weather,BHA,summer,valid,station
+P0105,Rohan Kapoor,FLT-MGR,Fleet Manager,Fleet,BHA,summer,valid,station
+P0106,Ananya Joshi,MECH,Maintenance Technician,Maintenance,BHA,summer,valid,station
+P0107,Aarav Sen,OPS-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0108,Ishita Iyer,LOG-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0109,Kabir Kapoor,OPS-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0110,Meera Banerjee,OPS-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0111,Rohan Patel,LOG-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0112,Ananya Joshi,LOG-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0113,Vikram Menon,LOG-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0114,Nandini Gupta,LOG-MGR,HQ Operations,HQ,HQ,hq,valid,hq
+P0115,Arjun Bose,EXP-DIR,HQ Operations,HQ,HQ,hq,valid,hq
+P0116,Diya Sharma,EXP-DIR,HQ Operations,HQ,HQ,hq,valid,hq
+P0117,Aditya Nair,EXP-DIR,HQ Operations,HQ,HQ,hq,valid,hq
+P0118,Tara Das,LOG-MGR,HQ Operations,HQ,HQ,hq,valid,hq

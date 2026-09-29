@@ -1,0 +1,63 @@
+asset_id,station_id,asset_type_code,asset_type,model,commission_date,operating_hours,current_health_score,status,criticality
+A-MAI-001,MAI,TRV,Tracked Traverse Vehicle,PX-100,2023-01-02,5933,0.836,standby,medium
+A-MAI-002,MAI,SUV,Polar Utility Vehicle,PX-101,2024-05-04,3677,0.811,operational,high
+A-MAI-003,MAI,GEN,Generator/CHP Unit,PX-102,2024-07-16,974,0.958,operational,critical
+A-MAI-004,MAI,SNOW,Snow Vehicle,PX-103,2022-05-22,10584,0.746,maintenance,medium
+A-MAI-005,MAI,COMM,SATCOM/Radio Unit,PX-104,2024-09-12,3442,0.868,operational,critical
+A-MAI-006,MAI,SCI,Scientific Instrument,PX-105,2025-05-18,4089,0.976,maintenance,high
+A-MAI-007,MAI,FORK,Forklift/Material Handler,PX-106,2021-07-01,11344,0.861,operational,medium
+A-MAI-008,MAI,MED,Medical Equipment Pack,PX-107,2022-06-23,548,0.925,operational,medium
+A-MAI-009,MAI,TRV,Tracked Traverse Vehicle,PX-108,2021-12-22,10406,0.844,operational,high
+A-MAI-010,MAI,SUV,Polar Utility Vehicle,PX-100,2024-02-27,5093,0.884,operational,medium
+A-MAI-011,MAI,GEN,Generator/CHP Unit,PX-101,2023-10-15,5296,0.881,standby,critical
+A-MAI-012,MAI,SNOW,Snow Vehicle,PX-102,2021-08-04,8790,0.855,operational,medium
+A-MAI-013,MAI,COMM,SATCOM/Radio Unit,PX-103,2024-06-15,3103,0.99,operational,critical
+A-MAI-014,MAI,SCI,Scientific Instrument,PX-104,2023-04-25,5285,0.828,maintenance,medium
+A-MAI-015,MAI,FORK,Forklift/Material Handler,PX-105,2023-01-28,5119,0.887,operational,high
+A-MAI-016,MAI,MED,Medical Equipment Pack,PX-106,2023-02-07,6354,0.938,operational,critical
+A-MAI-017,MAI,TRV,Tracked Traverse Vehicle,PX-107,2024-08-14,9411,0.888,operational,medium
+A-MAI-018,MAI,SUV,Polar Utility Vehicle,PX-108,2022-05-18,2182,0.863,operational,high
+A-MAI-019,MAI,GEN,Generator/CHP Unit,PX-100,2021-06-28,1436,0.877,operational,medium
+A-MAI-020,MAI,SNOW,Snow Vehicle,PX-101,2023-04-26,1277,0.835,operational,high
+A-MAI-021,MAI,COMM,SATCOM/Radio Unit,PX-102,2023-07-26,11354,0.889,maintenance,critical
+A-MAI-022,MAI,SCI,Scientific Instrument,PX-103,2022-07-25,10823,0.861,maintenance,critical
+A-MAI-023,MAI,FORK,Forklift/Material Handler,PX-104,2024-04-03,1296,0.83,operational,medium
+A-MAI-024,MAI,MED,Medical Equipment Pack,PX-105,2024-09-11,9035,0.99,operational,high
+A-MAI-025,MAI,TRV,Tracked Traverse Vehicle,PX-106,2022-10-23,9538,0.852,operational,critical
+A-MAI-026,MAI,SUV,Polar Utility Vehicle,PX-107,2024-05-11,3649,0.88,operational,high
+A-MAI-027,MAI,GEN,Generator/CHP Unit,PX-108,2022-08-05,6552,0.864,operational,medium
+A-MAI-028,MAI,SNOW,Snow Vehicle,PX-100,2023-04-17,1405,0.707,operational,critical
+A-MAI-029,MAI,COMM,SATCOM/Radio Unit,PX-101,2025-01-28,2858,0.891,maintenance,medium
+A-MAI-030,MAI,SCI,Scientific Instrument,PX-102,2023-11-30,1077,0.924,operational,critical
+A-BHA-031,BHA,TRV,Tracked Traverse Vehicle,PX-100,2021-03-16,9714,0.813,standby,high
+A-BHA-032,BHA,SUV,Polar Utility Vehicle,PX-101,2021-03-28,8277,0.852,operational,critical
+A-BHA-033,BHA,GEN,Generator/CHP Unit,PX-102,2024-09-17,7702,0.889,operational,high
+A-BHA-034,BHA,SNOW,Snow Vehicle,PX-103,2024-06-28,8592,0.63,maintenance,medium
+A-BHA-035,BHA,COMM,SATCOM/Radio Unit,PX-104,2024-03-31,9503,0.942,operational,high
+A-BHA-036,BHA,SCI,Scientific Instrument,PX-105,2024-03-23,6914,0.813,operational,medium
+A-BHA-037,BHA,FORK,Forklift/Material Handler,PX-106,2022-05-08,6338,0.842,standby,critical
+A-BHA-038,BHA,MED,Medical Equipment Pack,PX-107,2024-01-06,11784,0.906,operational,high
+A-BHA-039,BHA,TRV,Tracked Traverse Vehicle,PX-108,2021-10-19,4854,0.926,operational,critical
+A-BHA-040,BHA,SUV,Polar Utility Vehicle,PX-100,2022-12-31,4780,0.924,maintenance,medium
+A-BHA-041,BHA,GEN,Generator/CHP Unit,PX-101,2021-04-20,6754,0.86,operational,high
+A-BHA-042,BHA,SNOW,Snow Vehicle,PX-102,2021-06-04,10783,0.691,maintenance,medium
+A-BHA-043,BHA,COMM,SATCOM/Radio Unit,PX-103,2024-03-30,4617,0.897,operational,high
+A-BHA-044,BHA,SCI,Scientific Instrument,PX-104,2022-08-16,4826,0.838,operational,medium
+A-BHA-045,BHA,FORK,Forklift/Material Handler,PX-105,2021-02-12,7468,0.821,maintenance,high
+A-BHA-046,BHA,MED,Medical Equipment Pack,PX-106,2023-08-05,9498,0.9,maintenance,high
+A-BHA-047,BHA,TRV,Tracked Traverse Vehicle,PX-107,2021-10-27,8073,0.923,operational,high
+A-BHA-048,BHA,SUV,Polar Utility Vehicle,PX-108,2023-05-10,7973,0.862,operational,high
+A-BHA-049,BHA,GEN,Generator/CHP Unit,PX-100,2022-06-11,4336,0.757,standby,medium
+A-BHA-050,BHA,SNOW,Snow Vehicle,PX-101,2023-08-14,1863,0.783,operational,medium
+A-BHA-051,BHA,COMM,SATCOM/Radio Unit,PX-102,2022-09-28,2326,0.958,operational,high
+A-BHA-052,BHA,SCI,Scientific Instrument,PX-103,2021-08-12,11128,0.854,operational,critical
+A-BHA-053,BHA,FORK,Forklift/Material Handler,PX-104,2021-05-09,3121,0.854,operational,high
+A-BHA-054,BHA,MED,Medical Equipment Pack,PX-105,2025-02-23,9178,0.856,operational,high
+A-BHA-055,BHA,TRV,Tracked Traverse Vehicle,PX-106,2023-02-24,2955,0.922,operational,medium
+A-BHA-056,BHA,SUV,Polar Utility Vehicle,PX-107,2023-03-01,1139,0.846,operational,high
+A-BHA-057,BHA,GEN,Generator/CHP Unit,PX-108,2024-08-02,4058,0.99,operational,high
+A-BHA-058,BHA,SNOW,Snow Vehicle,PX-100,2024-10-29,619,0.844,operational,medium
+A-BHA-059,BHA,COMM,SATCOM/Radio Unit,PX-101,2024-06-24,6845,0.908,operational,medium
+A-BHA-060,BHA,SCI,Scientific Instrument,PX-102,2021-03-15,6469,0.924,maintenance,critical
+A-BHA-061,BHA,FORK,Forklift/Material Handler,PX-103,2022-01-03,8096,0.867,operational,critical
+A-BHA-062,BHA,MED,Medical Equipment Pack,PX-104,2023-07-21,2210,0.952,operational,high

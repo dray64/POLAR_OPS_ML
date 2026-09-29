@@ -1,0 +1,33 @@
+{
+  "pipelines": [
+    {
+      "script": "validate_data.py",
+      "return_code": 0
+    },
+    {
+      "script": "profile_data.py",
+      "return_code": 0
+    },
+    {
+      "script": "check_targets.py",
+      "return_code": 0
+    },
+    {
+      "script": "train_maintenance.py",
+      "return_code": 0
+    },
+    {
+      "script": "train_inventory.py",
+      "return_code": 0
+    },
+    {
+      "script": "train_mission_delay.py",
+      "return_code": 0
+    },
+    {
+      "script": "train_operational_risk.py",
+      "return_code": 0
+    }
+  ],
+  "status": "SUCCESS"
+}

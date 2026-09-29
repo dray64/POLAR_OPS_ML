@@ -1,0 +1,137 @@
+[
+  {
+    "name": "stations",
+    "rows": 2,
+    "columns": 10,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "personnel",
+    "rows": 118,
+    "columns": 9,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "assets",
+    "rows": 62,
+    "columns": 10,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "asset_telemetry",
+    "rows": 34560,
+    "columns": 13,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "weather",
+    "rows": 14496,
+    "columns": 11,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "inventory",
+    "rows": 24,
+    "columns": 9,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "inventory_consumption",
+    "rows": 3624,
+    "columns": 8,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "missions",
+    "rows": 900,
+    "columns": 14,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "cargo",
+    "rows": 1200,
+    "columns": 13,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "personnel_movement",
+    "rows": 16200,
+    "columns": 11,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "emergency",
+    "rows": 180,
+    "columns": 12,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "scientific_instruments",
+    "rows": 36,
+    "columns": 8,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "scientific_telemetry",
+    "rows": 31152,
+    "columns": 8,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "routes",
+    "rows": 60,
+    "columns": 10,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  },
+  {
+    "name": "risk_labels",
+    "rows": 302,
+    "columns": 8,
+    "duplicates": 0,
+    "missing_total": 0,
+    "missing_columns": {},
+    "problems": []
+  }
+]
